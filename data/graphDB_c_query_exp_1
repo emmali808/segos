@@ -1,0 +1,9 @@
+# 2 Small Graph Database for AIDS with nodes less than 10
+t #152
+v 0 4
+v 1 38
+v 2 38
+v 3 23
+e 0 1 0
+e 0 2 0
+e 2 3 0
